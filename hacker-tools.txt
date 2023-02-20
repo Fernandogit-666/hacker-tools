@@ -11,7 +11,7 @@ go install github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 
 nuclei -update  
 
-sleep
+sleep 1
 
 echo "install subfinder"
 
